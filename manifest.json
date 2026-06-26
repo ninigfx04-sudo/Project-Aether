@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ninigfx04-sudo.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ninigfx04-sudo.github",
+  "start_url": "/https://ninigfx04-sudo.github.io/Project-Aether/",
+  "theme_color": "#ffffff"
+}
